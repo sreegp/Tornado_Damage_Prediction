@@ -10,7 +10,7 @@ The problem was considered as a classification problem, predicting whether the t
 
 I trained logistic regression, decision tree and random forest models to predict tornado casualties. I performed data balancing, cross validation for tuning hyperparameters and evaluated best model using AUC value.
 
-Code is modularized, commented and easy to read.
+Code is modularized, commented and easy to read. The "Main" iPython notebook calls the preprocessing.py, scaling_and_sampling.py and model_selection.py files.
 
 Credits: 
 
